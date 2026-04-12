@@ -1,0 +1,45 @@
+[
+  {
+    "name": "bekomeister1real",
+    "password": "bekoTe123",
+    "ranks": [
+      "VIP"
+    ],
+    "note": "Member"
+  },
+  {
+    "name": "Calavera2117",
+    "password": "CalaveraYT123",
+    "ranks": [],
+    "note": "Member"
+  },
+  {
+    "name": "TuntinTe",
+    "password": "tuntinTe123",
+    "ranks": [
+      "VIP+"
+    ],
+    "note": "Member"
+  },
+  {
+    "name": "McOzan",
+    "password": "oziTe123",
+    "ranks": [],
+    "note": "Member"
+  },
+  {
+    "name": "SuleymanTe",
+    "password": "suleymanTe123",
+    "ranks": [],
+    "note": "Member"
+  },
+  {
+    "name": "ItzPertoTe",
+    "password": "pertotek123",
+    "ranks": [
+      "OG",
+      "Owner"
+    ],
+    "note": "Owner"
+  }
+]
