@@ -41,5 +41,13 @@
       "Owner"
     ],
     "note": "Owner"
+  },
+  {
+    "name": "Tekno24",
+    "password": "tugiTe123",
+    "ranks": [
+      "VIP+"
+    ],
+    "note": "Member"
   }
 ]
